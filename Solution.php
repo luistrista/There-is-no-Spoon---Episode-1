@@ -3,6 +3,11 @@
  * Don't let the machines win. You are humanity's last hope...
  **/
 
+ /*
+ *  https://www.codingame.com/ide/puzzle/there-is-no-spoon-episode-1
+ *  Solution By Luis Trista
+ * */
+
 // $width: the number of cells on the X axis
 fscanf(STDIN, "%d", $width);
 // $height: the number of cells on the Y axis
